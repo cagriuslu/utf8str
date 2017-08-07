@@ -1,6 +1,5 @@
 /// \file
 /// This file defines utf8char_t, which is used by utf8str_t.
-/// \copyright Copyright 2017 Cagri Uslu. This library is released under the MIT License.
 
 #ifndef UTF8CHAR_H
 #define UTF8CHAR_H

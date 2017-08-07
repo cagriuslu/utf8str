@@ -6,6 +6,9 @@
 ///
 /// \section Usage
 /// Read the documentation of the file "utf8str.h" and include it in your code.
+///
+/// \section License
+/// This library is released under the MIT License.
 
 /// \file
 /// This file defines utf8str_t.
